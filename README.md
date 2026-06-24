@@ -31,4 +31,4 @@ On my personal portfolio website, I share my skills, education, courses, and con
 
 ## 📫 Bana Ulaş / Contact
 
-* Portfolio: https://cemalkan.com.tr
+*  https://cemalkan.com.tr
