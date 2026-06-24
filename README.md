@@ -1,14 +1,14 @@
 # Merhaba, ben Cem Alkan 👋
 
-# Hi, I'm Cem Alkan 👋
+**Hi, I'm Cem Alkan.**
 
 Web geliştirme, yazılım, mikrodenetleyici sistemleri ve donanım alanlarına ilgi duyan bir geliştiriciyim.
 
 I am a developer interested in web development, software, microcontroller systems, and computer hardware.
 
-Kişisel portfolyo sitemde yeteneklerimi, eğitim bilgilerimi, aldığım kursları ve iletişim bilgilerimi paylaşıyorum. GitHub hesabımı ise zamanla projelerimi ve çalışmalarımı daha düzenli şekilde paylaşmak için kullanıyorum.
+Kişisel portfolyo sitemde yeteneklerimi, eğitim bilgilerimi, aldığım kursları ve iletişim bilgilerimi paylaşıyorum. GitHub hesabımı ise zamanla projelerimi ve teknik çalışmalarımı daha düzenli şekilde paylaşmak için kullanıyorum.
 
-On my personal portfolio website, I share my skills, education, courses, and contact information. I use my GitHub profile to organize and share my projects and technical work over time.
+On my personal portfolio website, I share my skills, education, courses, and contact information. I use my GitHub profile to organize and share my technical work over time.
 
 ## 🚀 İlgi Alanlarım / Interests
 
@@ -31,4 +31,4 @@ On my personal portfolio website, I share my skills, education, courses, and con
 
 ## 📫 Bana Ulaş / Contact
 
-* Portfolio: cemalkan.com.tr
+* Portfolio: https://cemalkan.com.tr
